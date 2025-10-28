@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F7CB15&height=230&section=header&text=Thanks_to_coming&fontColor=FFFFFF&fontSize=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0FAAFF,F7CB15,13A049,001B37&height=230&section=header&text=Hi%20there~%20👋&fontColor=FFFFFF&fontSize=65&animation=blur)
+
 
 
 
