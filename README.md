@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-%230FAAFF?logo=sap&logoColor=white&style=for-the-badge)
+![SAP ABAP](https://img.shields.io/badge/ABAP-%230FAAFF?logo=sap&logoColor=white&style=for-the-badge)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakeupmakeup&layout=compact)
 
