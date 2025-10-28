@@ -30,13 +30,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/ABAP-%230FAAFF?logo=sap&logoColor=white&style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/RAP-%230FAAFF?logo=sap&logoColor=white&style=for-the-badge" />&nbsp
+  <img src="https://img.shields.io/badge/UI5-%23F0AB00?logo=ui5&logoColor=white&style=for-the-badge" />&nbsp;
+
 </div>
 
 <div align="center">
- 
-  <div align="center">
-  <img src="https://img.shields.io/badge/UI5-%230FAAFF?logo=sap&logoColor=white&style=for-the-badge" />&nbsp
-</div>
+
 
 <br>
 
