@@ -58,9 +58,9 @@
 
 
 ## 소개 말씀 👋
-ㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇ
+처음 CNC 밀링 기계를 프로그래밍 하면서 프로그래밍에 재미를 느끼게 되었고 군전역 후 진로에 대한 깊은 고민에 빠져 방황하던 중 애플기기에 대한 사랑과 코딩에 대한 즐거움과 만나 iOS 개발자가 되기 위해 컴퓨터공학으로 편입을 하게 되었습니다. 이후 학교 생활을 하며 여러 활동을 전전하던 중 창업 활동에서 SAP ERP를 알게 되었고 ERP 개발에 대한 매력에 빠져 현재는 SAP ERP 개발에 집중 하고 있습니다. 클래식 ABAP에 대한 학습을 꾸준히 하고 있고 현재는 SAP RAP에 대한 심화학습 과정까지 마친 상태입니다. 
 
-
+I first discovered the joy of programming while working with a CNC milling machine. After completing my military service, I spent time deeply contemplating my future, feeling somewhat lost. Eventually, my love for Apple devices and my enjoyment of coding led me to transfer into computer engineering to become an iOS developer. As I continued my studies and participated in various activities at university, I encountered SAP ERP through startup work and was drawn to the appeal of ERP development. Now, I am focusing on SAP ERP development. I have continued to study classic ABAP, and I have recently completed advanced training in SAP RAP.
 
 
 
