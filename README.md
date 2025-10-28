@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0FAAFF,F7CB15,13A049,001B37&height=230&section=header&text=환영합니다!&fontColor=FFFFFF&fontSize=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=001B37&height=230&section=header&text=환영합니다!&fontColor=FFFFFF&fontSize=65)
+
+
 
 
 ## 환영합니다! 👋
