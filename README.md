@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=0FAAFF&height=230&section=header&text=환영합니다!&fontSize=65)
+****
+
+## 환영합니다! 👋
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -53,7 +57,7 @@
 </div>
 
 
-## Hi there 👋
+
 
 
 
