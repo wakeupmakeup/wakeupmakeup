@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-%230FAAFF?logo=sap&logoColor=white&style=for-the-badge)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
